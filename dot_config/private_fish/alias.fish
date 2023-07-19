@@ -4,6 +4,7 @@ alias vim=nvim
 alias ls=lsd
 alias cat=prettybat
 alias top="vtop --theme=parallax"
+alias cls=clear
 
 # git
 abbr -a gs git status -sb

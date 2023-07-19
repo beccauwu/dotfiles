@@ -2,7 +2,7 @@
 alias git=hub
 alias vim=nvim
 alias ls=lsd
-alias cat=batcat
+alias cat=prettybat
 alias top="vtop --theme=parallax"
 
 # git

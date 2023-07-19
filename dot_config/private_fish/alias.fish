@@ -3,6 +3,7 @@ alias git=hub
 alias vim=nvim
 alias ls=lsd
 alias cat=batcat
+alias top="vtop --theme=parallax"
 
 # git
 abbr -a gs git status -sb
